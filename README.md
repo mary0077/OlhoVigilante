@@ -18,8 +18,8 @@ Front end do projeto Olho Vigilante
 	senha: minhasenha
 
 
-#Participantes
-@Mariana Gomes
-@Lana Santos
-@Paulo Henrique
-@Robson Cícero
+# Participantes
+1. Mariana Gomes
+2. Lana Santos
+3. Paulo Henrique
+4. Robson Cícero
